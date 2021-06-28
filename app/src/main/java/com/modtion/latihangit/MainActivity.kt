@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
 //        ini dari master
 //        ini dari development
+//        ini feature
     }
 }
