@@ -11,4 +11,8 @@ class MainActivity : AppCompatActivity() {
 //        ini dari master
 //        ini dari development
     }
+
+    fun newFunction(){
+        //ini function update hehehe
+    }
 }
