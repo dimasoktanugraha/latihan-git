@@ -10,4 +10,8 @@ class MainActivity : AppCompatActivity() {
 
 //        ini dari master
     }
+
+    fun newFunction(){
+        //ini function update hehehe
+    }
 }
