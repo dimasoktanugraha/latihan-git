@@ -16,9 +16,4 @@ class MainActivity : AppCompatActivity() {
         //ini function update hehehe
     }
 
-    fun newFunction(){
-        //ini function update hehehe
-    }
-
-
 }
