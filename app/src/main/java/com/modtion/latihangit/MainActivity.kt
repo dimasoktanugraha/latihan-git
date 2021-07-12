@@ -15,4 +15,10 @@ class MainActivity : AppCompatActivity() {
     fun newFunction(){
         //ini function update hehehe
     }
+
+    fun newFunction(){
+        //ini function update hehehe
+    }
+
+
 }
